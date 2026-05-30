@@ -1,4 +1,4 @@
-# Proyecto_Expendedor
+# Proyecto-Expendedor
 
 **Tarea 1 - Desarrollo Orientado a Objetos - Ingeniería Civil Informática**
 
